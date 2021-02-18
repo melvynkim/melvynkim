@@ -16,19 +16,21 @@
 
 #### Mobile Development
 
-![React native](https://img.shields.io/badge/-React%20native-000?&logo=React)
+![React Native](https://img.shields.io/badge/-React%20native-000?&logo=React)
+
 ![Expo](https://img.shields.io/badge/-Expo-000?&logo=Expo)
 
 #### Web Development
 
+![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
+![React](https://img.shields.io/badge/-React-000?&logo=react)
+![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vue)
+![Electron](https://img.shields.io/badge/-Electron-000?&logo=Electron)
+
+![Material UI](https://img.shields.io/badge/-Material%20UI-000?&logo=Material-UI)
+![Ant Design](https://img.shields.io/badge/-Ant%20Design-000?&logo=Ant-Design)
 ![Styled Components](https://img.shields.io/badge/-Styled%20Components-000?&logo=styled-components)
 ![Gatsby](https://img.shields.io/badge/-Gatsby-000?&logo=Gatsby)
-![Electron](https://img.shields.io/badge/-Electron-000?&logo=Electron)
-![Ant Design](https://img.shields.io/badge/-Ant%20Design-000?&logo=Ant-Design)
-![Material UI](https://img.shields.io/badge/-Material%20UI-000?&logo=Material-UI)
-
-#### Frontend Development Framework
-
 ![Svelte](https://img.shields.io/badge/-Svelte-000?&logo=Svelte)
 ![Bit.dev](https://img.shields.io/badge/-bitdev-000?&logo=bitdev)
 
@@ -44,7 +46,7 @@
 ![Prettier](https://img.shields.io/badge/-Prettier-000?&logo=Prettier)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![Xcode](https://img.shields.io/badge/-Xcode-000?&logo=Xcode)
-![NPM](https://img.shields.io/badge/-NPM-000?&logo=NPM)
+![Yarn](https://img.shields.io/badge/-Yarn-000?&logo=Yarn)
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
 
 #### Code Quality, Error Monitoring, and Reporting
