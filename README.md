@@ -59,7 +59,7 @@
 ![Directus](https://img.shields.io/badge/-Directus-000?&logo=Directus)
 ![Strapi](https://img.shields.io/badge/-Strapi-000?&logo=Strapi)
 
-#### DevOps & Realtime Communications
+#### DevOps & Realtime Communications & Monitoring & Error Reporting
 
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS)
 ![Vercel](https://img.shields.io/badge/-Netlify-000?&logo=Vercel)
@@ -73,6 +73,8 @@
 ![Let's Encrypt](https://img.shields.io/badge/-Let's%20Encrypt-000?&logo=lets-encrypt)
 ![Socket.io](https://img.shields.io/badge/-Socket.io-000?&logo=Socket.io)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
+![Sentry](https://img.shields.io/badge/-Sentry-000?&logo=Sentry)
+![Snyk](https://img.shields.io/badge/-Snyk-000?&logo=Snyk)
 
 #### Development Tools & Environments
 
@@ -86,7 +88,5 @@
 ![Xcode](https://img.shields.io/badge/-Xcode-000?&logo=Xcode)
 ![Yarn](https://img.shields.io/badge/-Yarn-000?&logo=Yarn)
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
-![Sentry](https://img.shields.io/badge/-Sentry-000?&logo=Sentry)
-![Snyk](https://img.shields.io/badge/-Snyk-000?&logo=Snyk)
 
 
