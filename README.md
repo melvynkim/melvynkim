@@ -58,6 +58,9 @@
 
 ![Directus](https://img.shields.io/badge/-Directus-000?&logo=Directus)
 ![Strapi](https://img.shields.io/badge/-Strapi-000?&logo=Strapi)
+![GraphCMS](https://img.shields.io/badge/-graphcms-000?&logo=graphcms)
+![stroyblok](https://img.shields.io/badge/-stroyblok-000?&logo=stroyblok)
+
 
 #### DevOps & Realtime Communications & Monitoring & Error Reporting
 
@@ -88,5 +91,3 @@
 ![Xcode](https://img.shields.io/badge/-Xcode-000?&logo=Xcode)
 ![Yarn](https://img.shields.io/badge/-Yarn-000?&logo=Yarn)
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
-
-
